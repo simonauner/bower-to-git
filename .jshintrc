@@ -1,0 +1,14 @@
+{
+    "esnext": true,
+    "curly": true,
+    "noarg": true,
+    "boss": true,
+    "eqnull": true,
+    "quotmark": true,
+    "strict": true,
+    "globalstrict": false,
+    "browser": true,
+    "undef": true,
+    "scripturl": true,
+    "node": true
+}
