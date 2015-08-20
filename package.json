@@ -1,0 +1,31 @@
+{
+  "name": "bower-to-git",
+  "version": "0.0.1",
+  "description": "A node tool to git clone a bower-component",
+  "preferGlobal": true,
+  "bin": {
+    "bower-to-git": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/simonauner/bower-to-git.git"
+  },
+  "keywords": [
+    "bower",
+    "git"
+  ],
+  "author": "Simon Auner <simon.auner@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simonauner/bower-to-git/issues"
+  },
+  "homepage": "https://github.com/simonauner/bower-to-git",
+  "dependencies": {
+    "chalk": "^1.1.0",
+    "del": "^1.2.1",
+    "nodegit": "^0.4.1"
+  }
+}
